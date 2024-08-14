@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.953de4c2.css",
-    "main.js": "./static/js/main.f19d4a7e.js",
+    "main.css": "./static/css/main.32f1bdb6.css",
+    "main.js": "./static/js/main.9af4f2d4.js",
     "static/media/slider-3.png": "./static/media/slider-3.3ab0c9b71cae9e04b094.png",
     "static/media/slider-2.png": "./static/media/slider-2.f509ad3c8ed651749cb5.png",
     "static/media/mainlogo.svg": "./static/media/mainlogo.206741d85680b68982650c06031b0ca5.svg",
+    "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
@@ -12,8 +13,10 @@
     "static/media/accessories.png": "./static/media/accessories.2f38e97542b4cfc7879a.png",
     "static/media/tablet.png": "./static/media/tablet.2442ad3716c51af5e1f4.png",
     "static/media/slider-1-mobile.png": "./static/media/slider-1-mobile.c5f09f6eae711c8e6cbf.png",
+    "static/media/page-not-found.png": "./static/media/page-not-found.6f5b123471bc09721371.png",
     "static/media/mobile.png": "./static/media/mobile.4eeaf9882be0c5e32f65.png",
-    "static/media/00.webp": "./static/media/00.551ec875baf26c034e56.webp",
+    "static/media/cart-is-empty.png": "./static/media/cart-is-empty.86ebaf664449a2f61e5e.png",
+    "static/media/Spinner.svg": "./static/media/Spinner.ad2b65d15e526615b59804315f5b9de3.svg",
     "static/media/cart.svg": "./static/media/cart.f5242b502e031f9d34cb3da4d7e256aa.svg",
     "static/media/like.svg": "./static/media/like.0d839a8001c7a94aaf747bf2f15e11ee.svg",
     "static/media/home-icon.svg": "./static/media/home-icon.9a24a70540404ccecd05fd9f900ddeeb.svg",
@@ -24,11 +27,11 @@
     "static/media/arrow-down.svg": "./static/media/arrow-down.98c9dd6d98b47f2f1977.svg",
     "static/media/arrow-right-active.svg": "./static/media/arrow-right-active.4705e353b524deb4ba62.svg",
     "index.html": "./index.html",
-    "main.953de4c2.css.map": "./static/css/main.953de4c2.css.map",
-    "main.f19d4a7e.js.map": "./static/js/main.f19d4a7e.js.map"
+    "main.32f1bdb6.css.map": "./static/css/main.32f1bdb6.css.map",
+    "main.9af4f2d4.js.map": "./static/js/main.9af4f2d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.953de4c2.css",
-    "static/js/main.f19d4a7e.js"
+    "static/css/main.32f1bdb6.css",
+    "static/js/main.9af4f2d4.js"
   ]
 }
